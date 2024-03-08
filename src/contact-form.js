@@ -33,7 +33,7 @@ const cfform = `
 	<input class="element" onchange="cfonChange('cfphone')" id="cfphone" type="number" name="phoneno" placeholder="Phone No" autocomplete="off">
 	<input class="element" onchange="cfonChange('cfsubject')" id="cfsubject" type="text" name="subject" placeholder="Subject" autocomplete="off">
 	<textarea class="element" onchange="cfonChange('cfmessage')" id="cfmessage" name="message" placeholder="Your message"></textarea>
-	<button id="cfbutton" onclick="cfSubmitMessage()" class="form-button color">Send your message</button><a href="https://github.com/cachecleanerjeet/Contact-Form" class="cfpromo">Powered by Contact Form</a>
+	<button id="cfbutton" onclick="cfSubmitMessage()" class="form-button color">Send your message</button><a href="https://t.me/ezramod" class="cfpromo">Powered by Safecypher Solutions</a>
 </div>
 `;
 
